@@ -1,5 +1,8 @@
 # quickmap
 QuickMap es una interfaz gráfica de usuario desarrollada a modo de optimizar el uso de la herramienta a través del pad numérico del teclado.
+Su principal objetivo es buscar optimizar el tiempo de escaneo del usuario, priorizando la eficacia por sobre el diseño.
+
+<img width="1280" height="720" alt="quickmapgif1" src="https://github.com/user-attachments/assets/9249a9c7-17bf-4880-a6f6-e511e6dc98d1" />
 
 [Manual]
 
